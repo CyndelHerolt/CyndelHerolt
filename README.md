@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CyndelHerolt
 - 👀 I’m a french student
-- 🌱 Currently learning HTML CSS PHP SQL JQuery Symfony
-- 💞️ Looking for a work-study contract
-- 📫 How to reach me : https://cyndelherolt.fr/ | cyndelherolt@gmail.com
+- 🌱 Currently learning SCSS PHP JS SQL Symfony
+- 📫 How to reach me : cyndelherolt@gmail.com
