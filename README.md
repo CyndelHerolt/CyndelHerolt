@@ -10,7 +10,7 @@ Junior full stack developer, on a work-study contract at IUT de Troyes.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyndel-herolt/)
 
 
-## 🐱‍🚀 Skills
+## 🐱‍🚀 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -24,3 +24,11 @@ Junior full stack developer, on a work-study contract at IUT de Troyes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="30" width="42" alt="ubuntu logo"  />
 </div>
+
+## 🐱‍💻 Github Stats
+![](https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CyndelHerolt&icon=5&color=9)](https://visitcount.itsvg.in)
