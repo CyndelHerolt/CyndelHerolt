@@ -21,7 +21,7 @@ Junior full stack developer, on a work-study contract at IUT de Troyes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://symfony.com/logos/symfony_black_03.svg" height="30" width="42" alt="symfony logo"  />
+  <img src="https://symfony.com/logos/symfony_white_03.svg" height="30" width="42" alt="symfony logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="30" width="42" alt="ubuntu logo"  />
 </div>
