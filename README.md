@@ -28,7 +28,7 @@ Junior full stack developer, on a work-study contract at IUT de Troyes.
 
 ## 🐱‍💻 Github Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=gotham&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
