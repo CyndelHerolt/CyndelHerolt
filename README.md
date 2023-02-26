@@ -39,10 +39,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CyndelHerolt.CyndelHerolt&"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CyndelHerolt/CyndelHerolt/blob/output/snake.svg" alt="Snake animation" />
 
 ###
