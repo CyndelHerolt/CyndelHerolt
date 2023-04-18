@@ -2,6 +2,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=CyndelHerolt&icon=5&color=9)](https://visitcount.itsvg.in)
 
+### Ongoing project -> [![UniFolio](https://github.com/CyndelHerolt/UniFolio) [![wakatime](https://wakatime.com/badge/github/CyndelHerolt/UniFolio.svg)](https://wakatime.com/badge/github/CyndelHerolt/UniFolio)
+
 ## 🐱‍👓 About Me
 Junior full stack developer, on a work-study contract at IUT de Troyes.
 
