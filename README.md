@@ -2,7 +2,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=CyndelHerolt&icon=5&color=9)](https://visitcount.itsvg.in)
 
-### Ongoing project -> [UniFolio](https://github.com/CyndelHerolt/UniFolio)
 ## 🐱‍👓 About Me
 Junior full stack developer.
 
