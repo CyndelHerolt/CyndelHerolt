@@ -18,13 +18,13 @@ I still have so much to learn — and that’s what makes it exciting.
 
 ## Quick Facts
 
-- 🌍 Based in Troyes, France  
-- 🖥 Portfolio: [cyndelherolt.fr](http://cyndelherolt.fr)  
-- ✉️ Contact: [cyndelherolt@gmail.com](mailto:cyndelherolt@gmail.com)  
-- 🚀 Currently working on: [UniServices](https://github.com/IUTTroyes/uniServices)  
-- 🧠 Learning: Server Administration & Security  
-- 👥 Open to collaborate on projects with educational or social impact  
-- ⚡ Beginner amateur photographer  
+*   🌍  I'm based in Troyes - France
+*   🖥️  See my portfolio at [cyndelherolt.fr](http://cyndelherolt.fr)
+*   ✉️  You can contact me at [cyndelherolt@gmail.com](mailto:cyndelherolt@gmail.com)
+*   🚀  I'm currently working on [UniServices](http://github.com/IUTTroyes/uniServices)
+*   🧠  I'm currently learning Server Administration & Security
+*   👥  I'm looking to collaborate on Projects with educational/social value and real meaning
+*   ⚡️  I'm also a Beginner Amateur Photographer
 
 ---
 
@@ -73,7 +73,6 @@ I still have so much to learn — and that’s what makes it exciting.
 ## Connect With Me
 
 <p>
-  <a href="https://www.github.com/cyndelherolt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/cyndelherolt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/cyndel_hlt/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
