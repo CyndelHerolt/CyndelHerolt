@@ -19,7 +19,7 @@ I still have so much to learn — and that’s what makes it exciting.
 *   🖥️  See my portfolio at [cyndelherolt.fr](http://cyndelherolt.fr)
 *   ✉️  You can contact me at [cyndelherolt@gmail.com](mailto:cyndelherolt@gmail.com)
 *   🚀  I'm currently working on [UniServices](http://github.com/IUTTroyes/uniServices)
-*   🧠  I'm currently learning Server Administration & Security
+*   🧠  I'm currently learning Server Administration & Security + Rust
 *   👥  I'm looking to collaborate on Projects with educational/social value and real meaning
 *   ⚡️  I'm also a Beginner Amateur Photographer
 
