@@ -28,7 +28,7 @@ I still have so much to learn — and that’s what makes it exciting.
 ## Tech Stack
 
 ### Backend
-<div>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   <img src="https://symfony.com/logos/symfony_black_03.svg" width="36" height="36" alt="Symfony" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
@@ -36,7 +36,7 @@ I still have so much to learn — and that’s what makes it exciting.
 </div>
 
 ### Frontend
-<div>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
@@ -47,7 +47,7 @@ I still have so much to learn — and that’s what makes it exciting.
 </div>
 
 ### Dev & Environment
-<div>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" />
@@ -56,7 +56,7 @@ I still have so much to learn — and that’s what makes it exciting.
 </div>
 
 ### Creative Tools
-<div>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" />
@@ -68,11 +68,11 @@ I still have so much to learn — and that’s what makes it exciting.
 ---
 
 ## Connect With Me
-
-<div>
+<div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/cyndelherolt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/cyndel_hlt/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </div>
+
 
 ---
 
