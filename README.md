@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Fullstack Developer
 --------------------------
 
-I’ve been learning to code for five years, following a career change and a return to education.
+I’ve been learning to code for five years, following a career change and a return to studies.
 
-Originally more of an artist than a technician, I discovered a real passion for web development during my MMI studies — especially during my apprenticeship in the IT department of the IUT of Troyes.
+Originally more of an artist than a technician, I discovered a real curiosity for web development during my MMI studies — especially during my apprenticeship in the IT department of the IUT of Troyes.
 
 I still have so much to learn — and that’s what makes it exciting.
 
@@ -19,9 +19,8 @@ I still have so much to learn — and that’s what makes it exciting.
 *   🖥️  See my portfolio at [cyndelherolt.fr](http://cyndelherolt.fr)
 *   ✉️  You can contact me at [cyndelherolt@gmail.com](mailto:cyndelherolt@gmail.com)
 *   🚀  I'm currently working on [UniServices](http://github.com/IUTTroyes/uniServices)
-*   🧠  I'm currently learning Server Administration & Security + Rust
+*   🧠  I'm currently learning Server Administration & Security
 *   👥  I'm looking to collaborate on Projects with educational/social value and real meaning
-*   ⚡️  I'm also a Beginner Amateur Photographer
 
 ---
 
@@ -31,7 +30,6 @@ I still have so much to learn — and that’s what makes it exciting.
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   <img src="https://symfony.com/logos/symfony_black_03.svg" width="36" height="36" alt="Symfony" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </div>
 
@@ -40,10 +38,10 @@ I still have so much to learn — and that’s what makes it exciting.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
 </div>
 
 ### Dev & Environment
