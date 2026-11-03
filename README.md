@@ -1,36 +1,52 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-===============================================================================================================================
+<div align="center">
 
-## About Me
-Junior Fullstack Developer
---------------------------
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" />
 
-I’ve been learning to code for five years, following a career change and a return to studies.
+  # Hi, I'm Cyndel 
+
+  **Fullstack Web Developer & Creative Mind**  
+
+  [Portfolio](http://cyndelherolt.fr) • [LinkedIn](https://www.linkedin.com/in/cyndelherolt) • [Email](mailto:cyndelherolt@gmail.com)
+
+</div>
+
+---
+
+## 🌿 About Me
+
+I’ve been learning to code since 2021, following a career change and a return to studies.
 
 Originally more of an artist than a technician, I discovered a real curiosity for web development during my MMI studies — especially during my apprenticeship in the IT department of the IUT of Troyes.
 
-I still have so much to learn — and that’s what makes it exciting.
+---
+
+## 📌 Current Focus & Quick Facts
+
+- 🌍 **Location:** Troyes, France
+- 🚀 **Currently Building:** Main developer on [UniServices](http://github.com/IUTTroyes/uniServices), an ecosystem of internal web tools for higher education
+- 🧠 **Exploring:** Server administration, Linux environments, and web application security
+- 🎯 **Looking to Collaborate:** Open to impactful projects with educational, social, or community value
 
 ---
 
-## Quick Facts
+## 🎵 Outside of Code
 
-*   🌍  I'm based in Troyes - France
-*   🖥️  See my portfolio at [cyndelherolt.fr](http://cyndelherolt.fr)
-*   ✉️  You can contact me at [cyndelherolt@gmail.com](mailto:cyndelherolt@gmail.com)
-*   🚀  I'm currently working on [UniServices](http://github.com/IUTTroyes/uniServices)
-*   🧠  I'm currently learning Server Administration & Security
-*   👥  I'm looking to collaborate on Projects with educational/social value and real meaning
+- 📸 Street & architectural photography (capturing light & geometric structures)
+- 🎧 Post-punk & Coldwave music enthusiast
+- 🎸 Guitar player & music composition explorer
+- 🏓 Recreational table tennis player
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Backend
+### Backend & Systems
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   <img src="https://symfony.com/logos/symfony_black_03.svg" width="36" height="36" alt="Symfony" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" />
 </div>
 
 ### Frontend
@@ -44,16 +60,7 @@ I still have so much to learn — and that’s what makes it exciting.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 </div>
 
-### Dev & Environment
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" />
-</div>
-
-### Creative Tools
+### Creative & Design
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
@@ -65,21 +72,14 @@ I still have so much to learn — and that’s what makes it exciting.
 
 ---
 
-## Connect With Me
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://www.linkedin.com/in/cyndelherolt"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/cyndel_hlt/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-</div>
-
-
----
-
-## GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=gotham&hide_border=true" height="150"/>
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=gotham&hide_border=true&layout=compact" height="150"/>
