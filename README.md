@@ -1,25 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=Hi,%20I'm%20Cyndel%20!&fontSize=42&fontColor=7aa2f7&animation=twinkling" width="100%" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" />
 
-  <h3>✨ Fullstack Web Developer & Creative Mind ✨</h3>
-  <p><i>Crafting digital solutions with a blend of code, design, and continuous learning.</i></p>
+  # Hi, I'm Cyndel 
 
-  <!-- Badges Liens Liés -->
-  <a href="http://cyndelherolt.fr">
-    <img src="https://img.shields.io/badge/Portfolio-cyndelherolt.fr-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/cyndelherolt">
-    <img src="https://img.shields.io/badge/LinkedIn-Cyndel%20Herolt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cyndelherolt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-eb6f92?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  **Fullstack Web Developer & Creative Mind**  
+  *Crafting applications with a blend of code, design, and continuous learning.*
+
+  [Portfolio](http://cyndelherolt.fr) • [LinkedIn](https://www.linkedin.com/in/cyndelherolt) • [Email](mailto:cyndelherolt@gmail.com)
 
 </div>
-
-<br />
 
 ---
 
@@ -31,86 +21,67 @@ Originally more of an artist than a technician, I discovered a real curiosity fo
 
 ---
 
-<br />
+## 📌 Current Focus & Quick Facts
 
-<!-- Layout en 2 colonnes avec des cartes HTML -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Current Focus</h3>
-      <ul>
-        <li>🌍 <b>Based in:</b> Troyes, France</li>
-        <li>🚀 <b>Currently Building:</b> Main developer on <a href="http://github.com/IUTTroyes/uniServices">UniServices</a></li>
-        <li>🧠 <b>Learning & Exploring:</b> Server administration, Linux systems & web security</li>
-        <li>👥 <b>Collaborations:</b> Projects with educational, social or community value</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Creative & Interests</h3>
-      <ul>
-        <li>📸 <b>Photography:</b> Street & architectural photography</li>
-        <li>🎧 <b>Music:</b> Post-punk & Coldwave enthusiast</li>
-        <li>🎸 <b>Instruments:</b> Electric guitar composition</li>
-        <li>🏓 <b>Sports:</b> Recreational table tennis player</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 🛠️ Tech Stack & Creative Toolkit
-
-### Backend & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Design & Creative Suite
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
-
-<br />
+- 🌍 **Location:** Troyes, France
+- 🚀 **Currently Building:** Main developer on [UniServices](http://github.com/IUTTroyes/uniServices), an ecosystem of internal web tools for higher education
+- 🧠 **Exploring:** Server administration, Linux environments, and web application security
+- 🎯 **Looking to Collaborate:** Open to impactful projects with educational, social, or community value
 
 ---
 
-## 📊 Analytics & Activity
+## 🎵 Outside of Code
+
+- 📸 Street & architectural photography
+- 🎧 Post-punk & Coldwave music enthusiast
+- 🎸 Guitar player & music composition explorer
+- 🏓 Recreational table tennis player
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Backend & Systems
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  <img src="https://symfony.com/logos/symfony_black_03.svg" width="36" height="36" alt="Symfony" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" />
+</div>
+
+### Frontend
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+</div>
+
+### Creative & Design
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
+</div>
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=gotham&hide_border=true" height="150"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=gotham&hide_border=true&layout=compact" height="150"/>
 </div>
