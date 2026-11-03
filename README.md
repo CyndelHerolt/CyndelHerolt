@@ -39,24 +39,10 @@
 
 ## 🎵 Outside of Code
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Arts & Musique</h4>
-      <ul>
-        <li>📸 Street & architectural photography</li>
-        <li>🎧 Post-punk & Coldwave music enthusiast</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎸 Pratiques & Loisirs</h4>
-      <ul>
-        <li>🎸 Guitar player & music composition explorer</li>
-        <li>🏓 Recreational table tennis player</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 📸 **Photography** &nbsp;|&nbsp; Street & architectural photography
+- 🎧 **Music** &nbsp;|&nbsp; Post-punk & Coldwave music enthusiast
+- 🎸 **Creation** &nbsp;|&nbsp; Guitar player & music composition explorer
+- 🏓 **Sports** &nbsp;|&nbsp; Recreational table tennis player
 
 ---
 
