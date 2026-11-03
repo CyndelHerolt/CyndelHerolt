@@ -78,16 +78,3 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=CyndelHerolt&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyndelHerolt&theme=gotham&hide_border=true" height="160"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyndelHerolt&theme=gotham&hide_border=true&layout=compact&langs_count=7" height="150"/>
-  </p>
-</div>
